@@ -8,6 +8,11 @@ public void companyName() {
 private void companyIde() {
 	System.out.println("approved");
 
+	
+}
+
+private void flight() {
+System.out.println("maran flights");
 }
 private void companyAddress() {
 	System.out.println("t.nagar");
@@ -17,6 +22,7 @@ public static void main(String[] args) {
 	call.companyName();
 	call.companyIde();
 	call.companyAddress();
+	call.flight();
 }
 
 }
